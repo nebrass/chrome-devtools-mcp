@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.3.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.2.0...chrome-devtools-mcp-v1.3.0) (2026-06-12)
+
+
+### 🎉 Features
+
+* Add retaining paths MCP tool ([#2187](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2187)) ([a97c642](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/a97c642d43d19fc5198038a7544ff41528ddc316))
+* Add the get_heapsnapshot_edges MCP tool ([#2180](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2180)) ([4f8eb7a](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/4f8eb7ad6beecc58f56ec383f9ff43549a5604d4))
+* include page title in list_pages output ([#2166](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2166)) ([b646feb](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/b646feb4f33743a5ecdc6c5e3744e98f86374af3))
+* Use HeapSnapshotProxy.nodeIndexById ([#2193](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2193)) ([6bd8c91](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/6bd8c91678035b5aa18ee40f72e1f630aa528837))
+
+
+### 🛠️ Fixes
+
+* Reset toolGroups before gathering toolGroups ([#2200](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/2200)) ([ed02047](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/ed02047ae90f25c4c15adb8fd7e224b963f43135))
+
 ## [1.2.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v1.1.1...chrome-devtools-mcp-v1.2.0) (2026-06-08)
 
 
